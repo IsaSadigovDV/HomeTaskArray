@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\bin\Debug\net7.0\HometaskArrays.exe
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\bin\Debug\net7.0\HometaskArrays.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\bin\Debug\net7.0\HometaskArrays.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\bin\Debug\net7.0\HometaskArrays.dll
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\bin\Debug\net7.0\HometaskArrays.pdb
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.dll
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\refint\HometaskArrays.dll
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.pdb
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\HometaskArrays.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp1\HometaskArrays\obj\Debug\net7.0\ref\HometaskArrays.dll
